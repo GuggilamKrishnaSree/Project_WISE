@@ -1,0 +1,33 @@
+Name : sreenidhi
+Reg no : 22b01a0526
+Hostel, room no : medha , 301
+Description: water problem
+Name : yahnavi
+Reg no : 508
+Hostel, room no : medha,104
+Description: fans not rotating
+Name : krishna
+Reg no : 555
+Hostel, room no : medha, 203
+Description: cupboards 
+Name : saathwika
+Reg no : 536
+Hostel, room no : sarada, 107
+Description: taps leaking
+Name : shannu
+Reg no : 521
+Hostel, room no : medha , 206
+Description: hostel not clean
+Name : manvita
+Reg no : 562
+Hostel, room no : yamuna
+Description: sounds of windows 
+
+Name : 
+Reg no : 
+Hostel, room no : 
+Description: 
+Name : sree
+Reg no : gd
+Hostel, room no : gddg
+Description: asfgdhfjk
