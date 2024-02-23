@@ -172,7 +172,7 @@ class main_page:
         self.Register_btnA.destroy()
         self.Register_btnB.destroy()
 
-        # sign up details
+        # sign up details for student
         self.sign_up_student_label = Label(root, text = "Student Sign Up", fg = "white", bg = "orange", font = ("Times New Roman", 14, 'bold'))
         self.sign_up_student_label.place(x =230, y = 120)
         self.sign_up_name = Label(root, text = "   UserID  ", fg = "white", bg = "orange", font = ("Times New Roman", 12, 'bold'))
@@ -302,7 +302,7 @@ class main_page:
         
         self.bck_student_page = Button(root, text = 'BACK', font=('Courier New', 15,'bold'), bd = 4, width= 6, command= self.back_to_homeA)
         self.bck_student_page.place(x = 500, y = 405)
-        
+    #health issues
     def health_complaints(self):
         self.home_title.destroy()
         self.icon_lbl.destroy()
